@@ -3,7 +3,7 @@ package utils.Week_03;
 public class ReverseNegativeNum {
 
     public static void main(String[] args) {
-        System.out.println(reverseNum(-123));
+        System.out.println(reverseNum(-1523));
     }
 
     public static int reverseNum(int a) {

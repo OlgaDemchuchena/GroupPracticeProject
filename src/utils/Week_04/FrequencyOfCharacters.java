@@ -5,7 +5,7 @@ public class FrequencyOfCharacters {
     public static void main(String[] args) {
 
 
-        String str = "aa3bc3cc5673d";
+        String str = "AAABBCDD";
 
         String result = "";
 

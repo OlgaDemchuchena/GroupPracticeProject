@@ -1,4 +1,4 @@
-package utils;
+package utils.Week_01;
 
 public class multiple35 {
     public static void finra (int a) {

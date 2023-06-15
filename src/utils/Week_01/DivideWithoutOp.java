@@ -1,4 +1,4 @@
-package utils;
+package utils.Week_01;
 
 public class DivideWithoutOp {
     public static void divisionNoOp(int a, int b){
@@ -11,7 +11,7 @@ public class DivideWithoutOp {
            x++;
        }
 
-           // System.out.println(x);
+            System.out.println(x);
 
     }
 }

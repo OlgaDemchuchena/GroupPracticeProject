@@ -1,4 +1,4 @@
-package utils;
+package utils.Week_01;
 
 public class OddEven {
     public static void identify(int x) {

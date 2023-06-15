@@ -1,4 +1,4 @@
-package utils;
+package utils.Week_02;
 
 public class W2ConsecutiveNumber {
     public static void main(String[] args) {
